@@ -22,6 +22,3 @@ Examples:
 ## SQL Rules
 
 - Use uppercase SQL keywords
-- Avoid SELECT *
-- Use snake_case column names
-- Always format SQL properly
